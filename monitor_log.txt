@@ -1,0 +1,11 @@
+--- Scan Chain Simulation Log ---
+
+Time  | scan_en | scan_in | scan_out
+-------------------------------------
+  0ns |    0    |    0    |    x
+ 10ns |    0    |    0    |    x
+ 20ns |    1    |    1    |    x
+ 30ns |    1    |    0    |    1
+ 40ns |    1    |    1    |    0
+ 50ns |    1    |    1    |    1
+ 60ns |    0    |    0    |    1
