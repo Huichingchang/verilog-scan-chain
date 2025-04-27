@@ -20,7 +20,7 @@ It includes RTL design, testbench for simulation, and waveform verification.
 
 ## 🧩 RTL Diagram
 
-📜 [Click here to view RTL Diagram](./RTL_scan_chain_tb.PDF)
+📜 [Click here to view RTL Diagram](./RTL_scan_chain_tb.pdf)
 
 ---
 
